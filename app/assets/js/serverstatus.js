@@ -11,7 +11,7 @@ const net = require('net')
 exports.getStatus = function(address, port = 25565){
 
     if(port == null || port == ''){
-        port = 25565
+        port = 25501
     }
     if(typeof port === 'string'){
         port = parseInt(port)

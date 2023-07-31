@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "2.0.4",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "ArionLauncher",
+  "version": "1.0.0",
+  "productName": "Arion",
+  "description": "Apocalypse | Mini-Jeu | Hardcore",
+  "author": "vavabse",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
